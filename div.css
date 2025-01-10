@@ -1,3 +1,8 @@
+/* Flexbox mai vertical axis and horizontal axis hai 
+For horizontal axis we use justify-content
+For vertical axis we use align-items
+We combine these both to style our elements */
+
 .main {
   background-color: black;
   width: 500px;

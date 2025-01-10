@@ -8,8 +8,8 @@ We combine these both to style our elements */
   width: 500px;
   height: 500px;
   display: flex;
-  justify-content: start;
-  align-items: end;
+  justify-content: center;
+  align-items: center;
 }
 
 .inside {

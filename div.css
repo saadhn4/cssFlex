@@ -1,0 +1,14 @@
+.main {
+  background-color: black;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: start;
+  align-items: end;
+}
+
+.inside {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+}
